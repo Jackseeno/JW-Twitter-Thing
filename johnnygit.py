@@ -58,7 +58,7 @@ def ytsrch(x):
     YOUTUBE_API_VERSION = "v3"
     youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
     page_size = 1
-    playlist = 'PLGo8zA-BDOfTRjVNmjJA9CbpoiPaqzThT'
+    playlist = 'xxx'
     for item in x:
         dd = item
         #print dd
